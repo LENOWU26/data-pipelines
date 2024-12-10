@@ -2,3 +2,4 @@
 2024-06-17 add cli flag
 2024-06-27 refactor parser
 2024-06-27 first commit
+2024-12-10 add retry on 429
