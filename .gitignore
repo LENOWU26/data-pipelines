@@ -5,3 +5,4 @@
 2025-01-14 fix timezone bug
 2025-03-18 refactor parser
 2025-03-31 add tests
+2025-04-01 split the fetcher out
