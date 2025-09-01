@@ -2,3 +2,4 @@
 2024-11-12 small perf pass
 2024-12-02 bump deps
 2025-05-06 docs
+2025-09-01 init
