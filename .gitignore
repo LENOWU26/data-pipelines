@@ -9,3 +9,4 @@
 2025-05-08 reduce noise
 2025-08-19 handle empty response
 2025-08-31 bump deps
+2025-09-01 backoff on failure
