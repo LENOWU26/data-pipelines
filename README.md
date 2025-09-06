@@ -3,3 +3,4 @@
 2024-12-02 typo
 2024-12-10 fix timezone bug
 2025-08-27 guard against None
+2025-09-06 add tests
