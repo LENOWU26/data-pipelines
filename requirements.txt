@@ -9,3 +9,4 @@
 2025-05-08 pagination fix
 2025-09-04 cleanup dead code
 2025-09-12 init
+2025-09-12 add tests
