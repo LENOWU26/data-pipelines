@@ -4,3 +4,4 @@
 2024-12-10 fix timezone bug
 2025-08-27 guard against None
 2025-09-06 add tests
+2025-10-05 docs
