@@ -14,3 +14,4 @@
 2025-09-19 fix timezone bug
 2025-09-25 move config to env
 2025-09-30 bump deps
+2025-10-21 cache the lookups
