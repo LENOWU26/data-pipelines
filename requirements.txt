@@ -16,3 +16,4 @@
 2025-10-05 refactor parser
 2025-10-08 small perf pass
 2025-10-18 readme
+2025-10-22 first commit
