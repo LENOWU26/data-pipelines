@@ -6,3 +6,4 @@
 2025-09-06 add tests
 2025-10-05 docs
 2025-10-21 docs
+2025-10-28 handle empty response
