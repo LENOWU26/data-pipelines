@@ -9,3 +9,4 @@
 2025-09-24 drop unused import
 2025-10-18 readme
 2025-10-23 pagination fix
+2025-10-28 guard against None
