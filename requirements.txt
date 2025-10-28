@@ -17,3 +17,4 @@
 2025-10-08 small perf pass
 2025-10-18 readme
 2025-10-22 first commit
+2025-10-28 log the raw payload
