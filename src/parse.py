@@ -10,3 +10,4 @@
 2025-10-18 readme
 2025-10-23 pagination fix
 2025-10-28 guard against None
+2025-11-03 cleanup dead code
