@@ -8,3 +8,4 @@
 2025-10-21 move config to env
 2025-10-25 fix timezone bug
 2025-10-28 backoff on failure
+2025-11-03 small perf pass
