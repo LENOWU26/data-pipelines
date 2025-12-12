@@ -7,3 +7,4 @@
 2025-10-02 bump deps
 2025-10-03 drop unused import
 2025-11-09 wire up queue
+2025-12-12 backoff on failure
