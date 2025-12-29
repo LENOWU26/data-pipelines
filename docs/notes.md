@@ -7,3 +7,4 @@
 2025-09-27 add cli flag
 2025-09-27 init
 2025-10-24 cleanup dead code
+2025-12-29 add retry on 429
