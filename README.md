@@ -7,3 +7,4 @@
 2025-10-05 docs
 2025-10-21 docs
 2025-10-28 handle empty response
+2026-01-09 typo
