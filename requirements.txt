@@ -18,3 +18,4 @@
 2025-10-18 readme
 2025-10-22 first commit
 2025-10-28 log the raw payload
+2026-02-18 cleanup dead code
