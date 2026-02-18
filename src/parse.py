@@ -11,3 +11,4 @@
 2025-10-23 pagination fix
 2025-10-28 guard against None
 2025-11-03 cleanup dead code
+2026-02-18 add cli flag
