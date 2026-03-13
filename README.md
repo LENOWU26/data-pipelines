@@ -8,3 +8,4 @@
 2025-10-21 docs
 2025-10-28 handle empty response
 2026-01-09 typo
+2026-03-13 backoff on failure
