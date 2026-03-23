@@ -12,3 +12,4 @@
 2025-12-29 init
 2026-01-13 add cli flag
 2026-03-19 refactor parser
+2026-03-23 fix timezone bug
