@@ -9,3 +9,4 @@
 2025-10-24 cleanup dead code
 2025-12-29 add retry on 429
 2026-01-30 refactor parser
+2026-03-27 cache the lookups
