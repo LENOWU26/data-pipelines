@@ -14,3 +14,4 @@
 2026-02-18 add cli flag
 2026-03-14 init
 2026-03-30 refactor parser
+2026-04-21 docs
