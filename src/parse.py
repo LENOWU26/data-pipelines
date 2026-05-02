@@ -15,3 +15,4 @@
 2026-03-14 init
 2026-03-30 refactor parser
 2026-04-21 docs
+2026-05-02 add tests
