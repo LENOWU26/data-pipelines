@@ -11,3 +11,4 @@
 2026-01-30 refactor parser
 2026-03-27 cache the lookups
 2026-04-11 typo
+2026-05-21 backoff on failure
