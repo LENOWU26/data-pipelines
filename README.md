@@ -14,3 +14,4 @@
 2026-03-28 refactor parser
 2026-04-19 move config to env
 2026-05-02 wire up queue
+2026-05-26 split the fetcher out
