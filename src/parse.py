@@ -17,3 +17,4 @@
 2026-04-21 docs
 2026-05-02 add tests
 2026-05-02 log the raw payload
+2026-06-02 handle empty response
