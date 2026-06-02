@@ -13,3 +13,4 @@
 2025-10-22 init
 2026-03-11 wire up queue
 2026-03-19 add retry on 429
+2026-06-02 reduce noise
