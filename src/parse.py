@@ -19,3 +19,4 @@
 2026-05-02 log the raw payload
 2026-06-02 handle empty response
 2026-06-16 init
+2026-06-18 pagination fix
