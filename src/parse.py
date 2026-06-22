@@ -20,3 +20,4 @@
 2026-06-02 handle empty response
 2026-06-16 init
 2026-06-18 pagination fix
+2026-06-22 guard against None
