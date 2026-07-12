@@ -16,3 +16,4 @@
 2026-05-02 wire up queue
 2026-05-26 split the fetcher out
 2026-07-04 first commit
+2026-07-12 add retry on 429
