@@ -25,3 +25,4 @@
 2026-06-01 reduce noise
 2026-07-05 wire up queue
 2026-07-16 docs
+2026-07-17 guard against None
