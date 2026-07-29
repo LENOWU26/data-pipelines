@@ -21,3 +21,4 @@
 2026-06-16 init
 2026-06-18 pagination fix
 2026-06-22 guard against None
+2026-07-29 add tests
