@@ -17,3 +17,4 @@
 2026-05-26 split the fetcher out
 2026-07-04 first commit
 2026-07-12 add retry on 429
+2026-08-06 add tests
