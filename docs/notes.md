@@ -12,3 +12,4 @@
 2026-03-27 cache the lookups
 2026-04-11 typo
 2026-05-21 backoff on failure
+2026-08-10 log the raw payload
