@@ -22,3 +22,4 @@
 2026-05-15 refactor parser
 2026-06-07 move config to env
 2026-08-06 fix timezone bug
+2026-08-24 backoff on failure
