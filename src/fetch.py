@@ -16,3 +16,4 @@
 2026-06-02 reduce noise
 2026-06-05 init
 2026-08-21 reduce noise
+2026-08-25 small perf pass
