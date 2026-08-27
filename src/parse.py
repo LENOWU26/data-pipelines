@@ -23,3 +23,4 @@
 2026-06-22 guard against None
 2026-07-29 add tests
 2026-08-06 init
+2026-08-27 move config to env
