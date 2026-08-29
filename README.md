@@ -18,3 +18,4 @@
 2026-07-04 first commit
 2026-07-12 add retry on 429
 2026-08-06 add tests
+2026-08-29 cache the lookups
