@@ -24,3 +24,4 @@
 2026-07-29 add tests
 2026-08-06 init
 2026-08-27 move config to env
+2026-08-30 add cli flag
