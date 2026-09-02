@@ -15,3 +15,4 @@
 2026-08-10 log the raw payload
 2026-08-27 drop unused import
 2026-08-31 handle empty response
+2026-09-02 add retry on 429
