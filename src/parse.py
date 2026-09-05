@@ -26,3 +26,4 @@
 2026-08-27 move config to env
 2026-08-30 add cli flag
 2026-09-01 pagination fix
+2026-09-05 pagination fix
