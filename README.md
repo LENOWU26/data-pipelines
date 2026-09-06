@@ -19,3 +19,4 @@
 2026-07-12 add retry on 429
 2026-08-06 add tests
 2026-08-29 cache the lookups
+2026-09-06 backoff on failure
