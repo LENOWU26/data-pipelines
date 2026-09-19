@@ -18,3 +18,4 @@
 2026-08-21 reduce noise
 2026-08-25 small perf pass
 2026-09-03 pagination fix
+2026-09-19 pagination fix
