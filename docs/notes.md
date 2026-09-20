@@ -18,3 +18,4 @@
 2026-09-02 add retry on 429
 2026-09-05 pagination fix
 2026-09-07 reduce noise
+2026-09-20 guard against None
