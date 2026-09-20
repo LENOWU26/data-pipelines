@@ -26,3 +26,4 @@
 2026-09-03 reduce noise
 2026-09-06 fix timezone bug
 2026-09-07 add cli flag
+2026-09-20 guard against None
