@@ -19,3 +19,4 @@
 2026-09-05 pagination fix
 2026-09-07 reduce noise
 2026-09-20 guard against None
+2026-09-22 small perf pass
