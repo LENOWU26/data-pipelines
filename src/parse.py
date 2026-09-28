@@ -27,3 +27,4 @@
 2026-08-30 add cli flag
 2026-09-01 pagination fix
 2026-09-05 pagination fix
+2026-09-28 pagination fix
