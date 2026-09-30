@@ -21,3 +21,4 @@
 2026-09-07 typo
 2026-09-27 refactor parser
 2026-09-30 refactor parser
+2026-09-30 bump deps
