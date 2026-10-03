@@ -19,3 +19,4 @@
 2026-08-25 small perf pass
 2026-09-03 pagination fix
 2026-09-19 pagination fix
+2026-10-03 add cli flag
