@@ -22,3 +22,4 @@
 2026-09-22 small perf pass
 2026-09-27 move config to env
 2026-10-06 cache the lookups
+2026-10-08 add tests
