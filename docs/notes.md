@@ -23,3 +23,4 @@
 2026-09-27 move config to env
 2026-10-06 cache the lookups
 2026-10-08 add tests
+2026-10-18 cache the lookups
