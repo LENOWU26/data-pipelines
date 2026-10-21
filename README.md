@@ -23,3 +23,4 @@
 2026-09-08 init
 2026-10-14 first commit
 2026-10-16 wire up queue
+2026-10-21 move config to env
