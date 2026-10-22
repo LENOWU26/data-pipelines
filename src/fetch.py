@@ -22,3 +22,4 @@
 2026-10-03 add cli flag
 2026-10-03 bump deps
 2026-10-11 first commit
+2026-10-22 wire up queue
