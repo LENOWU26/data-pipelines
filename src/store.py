@@ -22,3 +22,4 @@
 2026-09-27 refactor parser
 2026-09-30 refactor parser
 2026-09-30 bump deps
+2026-10-22 wire up queue
