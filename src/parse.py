@@ -29,3 +29,4 @@
 2026-09-05 pagination fix
 2026-09-28 pagination fix
 2026-10-16 docs
+2026-10-24 readme
