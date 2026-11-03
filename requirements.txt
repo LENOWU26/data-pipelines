@@ -33,3 +33,4 @@
 2026-10-10 bump deps
 2026-10-14 cache the lookups
 2026-10-29 cache the lookups
+2026-11-03 add cli flag
